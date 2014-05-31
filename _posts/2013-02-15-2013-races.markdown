@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: 2013 races
+author:
+  display_name: craig
+  login: craig
+  email: craigpardey@gmail.com
+  url: http://craigpardey.com
+author_login: craig
+author_email: craigpardey@gmail.com
+author_url: http://craigpardey.com
+wordpress_id: 218
+wordpress_url: http://capultra.com/?p=218
+date: '2013-02-15 06:56:33 -0500'
+date_gmt: '2013-02-15 11:56:33 -0500'
+categories:
+- Ultramarathon
+tags: []
+comments: []
+---
+<p>Here are some races I'm considering as preparation for the&nbsp;<a href="http:&#47;&#47;vermont50.com&#47;" target="_blank">Vermont 50 miler<&#47;a>.  Prior to this year, my longest event was the Toronto marathon 8 years ago.</p>
+<ol>
+<li>Sun May 5:&nbsp;<a href="http:&#47;&#47;www.torontomarathon.com&#47;" target="_blank">Toronto Marathon<&#47;a><&#47;li>
+<li>Sat May 25:&nbsp;<a href="http:&#47;&#47;www.burlingtonrunners.com&#47;index.cfm?pagepath=Club_Races&#47;Sulphur_Springs&amp;id=5711" target="_blank">Sulfur Springs<&#47;a>&nbsp;(Hamilton&nbsp;50km). Not sure about this one yet<&#47;li>
+<li>Sat June 22:&nbsp;<a href="http:&#47;&#47;www.welovetorun.com&#47;events&#47;niagaraultra.html" target="_blank">Niagara<&#47;a>&nbsp;50km road race<&#47;li>
+<li>Sat July 6:&nbsp;<a href="http:&#47;&#47;ouser.org&#47;races&#47;cree2013.pdf" target="_blank">Creemore Vertical Challenge<&#47;a>&nbsp;50km on hilly trails<&#47;li>
+<li>Sat July 13:&nbsp;<a href="http:&#47;&#47;thelimberlostchallenge.com&#47;" target="_blank">The Limberlost Challenge<&#47;a>&nbsp;(Huntsville, 56km trails on a scenic 14km loop)<&#47;li>
+<li>Sun Sept 29:&nbsp;<a href="http:&#47;&#47;vermont50.com&#47;" target="_blank">Vermont 50 miler<&#47;a><&#47;li><br />
+<&#47;ol></p>
+<p>Creemore and Limberlost look awesome and they're only a week apart! The Vermont 50 miler will be the pinnacle of my season this year.</p>
