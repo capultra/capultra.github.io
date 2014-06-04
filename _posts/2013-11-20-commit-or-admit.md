@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Commit or Admit
+author:
+  display_name: craig
+  login: craig
+  email: craigpardey@gmail.com
+  url: http://craigpardey.com
+author_login: craig
+author_email: craigpardey@gmail.com
+author_url: http://craigpardey.com
+wordpress_id: 302
+wordpress_url: http://capultra.com/?p=302
+date: '2013-11-20 20:30:53 -0500'
+date_gmt: '2013-11-21 01:30:53 -0500'
+categories:
+- Awesome
+tags: []
+comments: []
+---
+<p>When it comes to making a change in life, there are two choices:</p>
+<ol>
+<li>Commit to specific goals <strong>now</strong>, or<&#47;li>
+<li>Admit that the goal is not important to you.</li><br />
+</ol></p>
+<p><em>You must pick one.</em></p>
+<p>Forcing yourself to choose one determines your dedication to the goal.</p>
+<p>For example, a statement like "I want to get fit" needs to be followed immediately by a set of actionable commitments that will move you towards that goal.  Be specific. "I will run for 15 minutes on Mon, Wed, and Fri at 7pm".</p>
+<p>Failure to commit makes Option 2 the default. And you have to say it out loud.</p>
