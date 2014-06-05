@@ -28,12 +28,10 @@ Today I pulled 315lb for 3 reps on the deadlift, and 225lb for 5 reps in the
 squat. Unfortunately my bench press is lagging way back at 185lb but I'm
 hoping that I'll get it to 200lb by the end of the year.
 
-As Meatloaf would say, [2 out of 3 ain't bad](http://www.youtube.com/watch?v
-=k5hWWe-ts2s).
+As Meatloaf would say, [2 out of 3 ain't bad](http://www.youtube.com/watch?v=k5hWWe-ts2s).
 
 At a bodyweight of 158.5lb, I reckon those numbers aren't bad. Comparing them
-to the [Strength
-Standards](http://www.exrx.net/Testing/WeightLifting/StrengthStandards.htm)
+to the [Strength Standards](http://www.exrx.net/Testing/WeightLifting/StrengthStandards.htm)
 puts me firmly in the intermediate range which is about right since I've only
 been lifting since mid\-2011. I was surprised to see that it's my squat, not my
 bench, that is lagging according to Strength Standards \- it should be around
