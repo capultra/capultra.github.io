@@ -20,13 +20,25 @@ categories:
 tags: []
 comments: []
 ---
-<p>Lifting taught me two lessons today.</p>
-<p>My logbook said that my previous lift on the Incline Bench was 150lb (that's 105lb on the bar), and today I decided to go for 155lb so I put a 45, a 10 and a 5 on each side.</p>
-<p>I unracked and pushed out 3 reps, but it felt really heavy and the last rep was very slow. A little confused, I checked the weight and realised that I'd loaded 120lb on the bar for a 165lb lift. </p>
-<p>Fucking idiot! I could have got stuck under the bar and really hurt myself, or worse...</p>
-<p>But I didn't. I got lucky.</p>
-<p>I learnt two valuable lessons today.</p>
-<ol>
-<li><i>Always</i> double-check the weight.<&#47;li>
-<li>I can push myself harder.</li><br />
-</ol></p>
+
+Lifting taught me two lessons today.
+
+My logbook said that my previous lift on the Incline Bench was 150lb (that's
+105lb on the bar), and today I decided to go for 155lb so I put a 45, a 10 and
+a 5 on each side.
+
+I unracked and pushed out 3 reps, but it felt really heavy and the last rep
+was very slow. A little confused, I checked the weight and realised that I'd
+loaded 120lb on the bar for a 165lb lift.
+
+Fucking idiot! I could have got stuck under the bar and really hurt myself, or
+worse...
+
+But I didn't. I got lucky.
+
+I learnt two valuable lessons today.
+
+  1. _Always_ double-check the weight.
+  2. I can push myself harder.
+  
+

@@ -20,6 +20,20 @@ categories:
 tags: []
 comments: []
 ---
-<p>This morning I did my first weights workout since my Grade 3 AC joint separation 5 weeks ago. &nbsp;I didn't push it hard, the point was to start building some strength slowly while trying to avoid further injury. &nbsp;Most of the weights were around my previous warmup levels. i.e. around 60%.</p>
-<p>I was focusing on my legs and back, so the exercises were: Squats, bent-over rows, seated rows, deadlift, incline press. &nbsp;I tried doing some lat pulldowns but there was way too much movement in the AC joint for my comfort. &nbsp;I was surprised I was able to deadlift at all but it was quite comfortable. &nbsp;The rowing exercises required the most concentration to keep the joint stable, as did the incline press.</p>
-<p>I'll probably stick with this routine three times a week for a month or so, gradually increasing the weights. &nbsp;I hope to be back to my pre-injury strength by the end of January.</p>
+
+This morning I did my first weights workout since my Grade 3 AC joint
+separation 5 weeks ago.  I didn't push it hard, the point was to start
+building some strength slowly while trying to avoid further injury.  Most of
+the weights were around my previous warmup levels. i.e. around 60%.
+
+I was focusing on my legs and back, so the exercises were: Squats, bent-over
+rows, seated rows, deadlift, incline press.  I tried doing some lat pulldowns
+but there was way too much movement in the AC joint for my comfort.  I was
+surprised I was able to deadlift at all but it was quite comfortable.  The
+rowing exercises required the most concentration to keep the joint stable, as
+did the incline press.
+
+I'll probably stick with this routine three times a week for a month or so,
+gradually increasing the weights.  I hope to be back to my pre-injury strength
+by the end of January.
+

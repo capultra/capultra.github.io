@@ -20,16 +20,38 @@ categories:
 tags: []
 comments: []
 ---
-<p>If you listen to the bodybuilding community, you'd be convinced that you need to eat shitloads of meat every day in order to put on muscle.</p>
-<p>It's a myth.</p>
-<p>There's nothing special about meat - <a href="http:/&#47;jasonferruggia.com&#47;vegan-muscle-building&#47;">it's protein, not steriods<&#47;a>.  And you can get plenty of protein from non-animal sources like vegetables and quinoa.</p>
-<p>If you want to build muscle then get your ass in the gym and start lifting heavy weights. It's that simple.  The harder you work, the more muscle you'll pack on.</p>
-<p>You'll probably need to eat a <i>little</i> bit more, but not too much.  Certainly not the 5,000 calories per day that some people advocate.  If you do that, you'll put on twice as much fat as muscle, and then you'll have to spend months dieting to trim down.</p>
-<p>The simplest and most sensible approach is steady, sustainable progress by working hard in the gym and eating well outside the gym.  There are no shortcuts.</p>
-<p>As soon as you start thinking about using your diet to build muscle then you are in for a world of disappointment.  You'll overeat, you'll eat the wrong things, and you'll get fat.</p>
-<p>Think of it this way</p>
-<ul>
-<li>Lifting weights builds muscle</li>
-<li>Diet controls fat</li><br />
-</ul><br />
-You gotta keep 'em separated!</p>
+
+If you listen to the bodybuilding community, you'd be convinced that you need
+to eat shitloads of meat every day in order to put on muscle.
+
+It's a myth.
+
+There's nothing special about meat - [it's protein, not
+steriods](http://jasonferruggia.com/vegan-muscle-building/). And you can get
+plenty of protein from non-animal sources like vegetables and quinoa.
+
+If you want to build muscle then get your ass in the gym and start lifting
+heavy weights. It's that simple. The harder you work, the more muscle you'll
+pack on.
+
+You'll probably need to eat a _little_ bit more, but not too much. Certainly
+not the 5,000 calories per day that some people advocate. If you do that,
+you'll put on twice as much fat as muscle, and then you'll have to spend
+months dieting to trim down.
+
+The simplest and most sensible approach is steady, sustainable progress by
+working hard in the gym and eating well outside the gym. There are no
+shortcuts.
+
+As soon as you start thinking about using your diet to build muscle then you
+are in for a world of disappointment. You'll overeat, you'll eat the wrong
+things, and you'll get fat.
+
+Think of it this way
+
+  * Lifting weights builds muscle
+  * Diet controls fat
+  
+  
+You gotta keep 'em separated!
+

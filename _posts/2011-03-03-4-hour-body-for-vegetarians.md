@@ -26,15 +26,30 @@ categories:
 tags: []
 comments: []
 ---
-<p>I've had great success on Tim Ferriss' 4 Hour Body "Slow Carb" diet.  I lost about 20lb in a little over a month and have come to really enjoy eating this way.  What surprised me most was that I actually had 20lb to lose.  I'm 5'10" and was 170lb at the start of the diet, and now I'm down to 150lb and can almost see my abs.</p>
-<p>Being vegetarian presented some limitations but overall it was pretty easy.  Here's what my typical day looks like:</p>
-<p><a id="more"></a><a id="more-51"></a></p>
-<p><strong>Breakfast</strong>: 1 whole egg, 2 egg whites, scrambled with a good handful of black beans and a load of mixed vegetables<br />
-<strong>Snack</strong>: Lentil soup or Veg Chilli<br />
-<strong>Lunch</strong>: Big-ass Spinach Salad. Seriously - it's so big it's falling off the sides of a regular dinner plate.<br />
-<strong>Snack</strong>: Lentil soup or Veg Chilli<br />
-<strong>Dinner</strong>: Huge veggie stir-fry with beans or lentils.<br />
-<strong>Evening</strong>: Tablespoon of almond&#47;peanut butter. Tablespoon of flax seed oil.</p>
-<p>I added a few supplements after 2 weeks: Probiotic, multivitamin, ALA, Garlic, Green Tea.</p>
-<p>I drink copious amounts of water - probably 3 or 4 litres a day. I also drink 3 or 4 cups of green tea per day.  I quit coffee at the start of the diet, but still occasionally have black tea.</p>
-<p>I experimented with an ice-pack on the back of the neck/shoulders in the evening but didn't see any noticeable difference.</p>
+
+I've had great success on Tim Ferriss' 4 Hour Body "Slow Carb" diet. I lost
+about 20lb in a little over a month and have come to really enjoy eating this
+way. What surprised me most was that I actually had 20lb to lose. I'm 5'10"
+and was 170lb at the start of the diet, and now I'm down to 150lb and can
+almost see my abs.
+
+Being vegetarian presented some limitations but overall it was pretty easy.
+Here's what my typical day looks like:
+
+**Breakfast**: 1 whole egg, 2 egg whites, scrambled with a good handful of black beans and a load of mixed vegetables  
+**Snack**: Lentil soup or Veg Chilli  
+**Lunch**: Big-ass Spinach Salad. Seriously - it's so big it's falling off the sides of a regular dinner plate.  
+**Snack**: Lentil soup or Veg Chilli  
+**Dinner**: Huge veggie stir-fry with beans or lentils.  
+**Evening**: Tablespoon of almond/peanut butter. Tablespoon of flax seed oil.
+
+I added a few supplements after 2 weeks: Probiotic, multivitamin, ALA, Garlic,
+Green Tea.
+
+I drink copious amounts of water - probably 3 or 4 litres a day. I also drink
+3 or 4 cups of green tea per day. I quit coffee at the start of the diet, but
+still occasionally have black tea.
+
+I experimented with an ice-pack on the back of the neck/shoulders in the
+evening but didn't see any noticeable difference.
+

@@ -20,8 +20,18 @@ categories:
 tags: []
 comments: []
 ---
-<p>You load up the bar, step back, and stare down at it, thinking, "I'm gonna lift you".  You take a few deep breaths, step forward and adjust your stance, then bend down and grip the bar.</p>
-<p>You straighten your back, apply some tension and then ... GO!  But there's a fraction of a second, just a moment, when nothing happens; the bar doesn't budge; your veins are popping; and your mind is screaming, "Move, you fucker!" </p>
-<p>And then it happens. The bar comes off the floor and slowly moves to lockout.</p>
-<p>You drop the bar and feel like a conqueror.</p>
-<p>That's why I deadlift.</p>
+
+You load up the bar, step back, and stare down at it, thinking, "I'm gonna
+lift you". You take a few deep breaths, step forward and adjust your stance,
+then bend down and grip the bar.
+
+You straighten your back, apply some tension and then ... GO! But there's a
+fraction of a second, just a moment, when nothing happens; the bar doesn't
+budge; your veins are popping; and your mind is screaming, "Move, you fucker!"
+
+And then it happens. The bar comes off the floor and slowly moves to lockout.
+
+You drop the bar and feel like a conqueror.
+
+That's why I deadlift.
+
