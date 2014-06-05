@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CapUltra
+title: Capultra
 tagline: Better through nutrition.
 ---
 {% include JB/setup %}

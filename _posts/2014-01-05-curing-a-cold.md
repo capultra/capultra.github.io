@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Curing a cold
+tagline: Testing 1 2 3
 author:
   display_name: craig
   login: craig
