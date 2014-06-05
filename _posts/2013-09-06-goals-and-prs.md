@@ -35,8 +35,8 @@ At a bodyweight of 158.5lb, I reckon those numbers aren't bad. Comparing them
 to the [Strength
 Standards](http://www.exrx.net/Testing/WeightLifting/StrengthStandards.htm)
 puts me firmly in the intermediate range which is about right since I've only
-been lifting since mid-2011. I was surprised to see that it's my squat, not my
-bench, that is lagging according to Strength Standards - it should be around
+been lifting since mid\-2011. I was surprised to see that it's my squat, not my
+bench, that is lagging according to Strength Standards \- it should be around
 250lb.
 
 I'm excited to see how much I can push beyond these goals by the end of the
