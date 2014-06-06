@@ -7,6 +7,9 @@ tagline: Better through nutrition.
 
 {% for post in site.posts %}
 <a href="{{ post.url }}">{{ post.title }}</a>
-{{ post.excerpt }}
+---------------------------------------------
+{% post.excerpt %}
+
+---
 {% endfor %}
 
