@@ -6,8 +6,7 @@ tagline: Better through nutrition.
 {% include JB/setup %}
 
 {% for post in site.posts %}
-<a href="{{ post.url }}">{{ post.title }}</a>
----------------------------------------------
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.date | date_to_string }}
 
 ---
