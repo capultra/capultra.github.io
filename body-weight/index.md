@@ -32,7 +32,7 @@ Here's how to set up your own page
     1. Create a spreadsheet in Google Docs
     2. Add two columns: Date and Weight
     3. Select the data
-    4. Choose Insert > Chart... from the menu
+    4. Choose Insert &gt; Chart... from the menu
     5. On the Charts tab, choose "Line", then "Line Chart"
     6. On the Customize tab, change the chart title and axes titles
     7. Click Insert button
