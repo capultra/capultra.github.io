@@ -6,6 +6,6 @@ tagline: Better through nutrition.
 {% include JB/setup %}
 
 {% for post in site.posts %}
-testing
+<a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
