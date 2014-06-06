@@ -16,9 +16,7 @@ wordpress_url: http://capultra.com/?p=227
 date: '2013-04-01 07:07:58 -0400'
 date_gmt: '2013-04-01 11:07:58 -0400'
 categories:
-- Ultramarathon
-- Running
-tags: []
+tags: [Ultramarathon,Running]
 comments: []
 ---
 

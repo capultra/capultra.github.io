@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=257
 date: '2013-07-25 06:36:59 -0400'
 date_gmt: '2013-07-25 10:36:59 -0400'
 categories:
-- Running
-tags: []
+tags: [Running]
 comments: []
 ---
 

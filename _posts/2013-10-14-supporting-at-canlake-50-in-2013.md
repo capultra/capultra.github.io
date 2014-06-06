@@ -16,10 +16,7 @@ wordpress_url: http://capultra.com/?p=285
 date: '2013-10-14 08:34:47 -0400'
 date_gmt: '2013-10-14 12:34:47 -0400'
 categories:
-- Ultramarathon
-- Running
-- Exercise
-tags: []
+tags: [ Ultramarathon, Running, Exercise]
 comments: []
 ---
 
@@ -73,6 +70,5 @@ As a handler, here are the things I'd bring next time
   
 
 Overall I really enjoyed being his crew. I got to experience the race without
-all the pain of running it, and I got to meet a lot of <del>long-
-suffering</del> supportive husbands and wives of runners.
+all the pain of running it, and I got to meet a lot of <del>long-suffering</del> supportive husbands and wives of runners.
 

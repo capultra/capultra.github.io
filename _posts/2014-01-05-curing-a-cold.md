@@ -17,8 +17,7 @@ wordpress_url: http://capultra.com/?p=308
 date: '2014-01-05 08:28:04 -0500'
 date_gmt: '2014-01-05 13:28:04 -0500'
 categories:
-- Diet
-tags: []
+tags: [Diet]
 comments: []
 ---
 

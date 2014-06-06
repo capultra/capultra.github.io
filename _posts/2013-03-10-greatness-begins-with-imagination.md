@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=222
 date: '2013-03-10 09:23:20 -0400'
 date_gmt: '2013-03-10 13:23:20 -0400'
 categories:
-- Awesome
-tags: []
+tags: [Awesome]
 comments: []
 ---
 

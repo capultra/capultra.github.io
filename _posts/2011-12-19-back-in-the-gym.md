@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=32
 date: '2011-12-19 23:48:31 -0500'
 date_gmt: '2011-12-19 23:48:31 -0500'
 categories:
-- Shoulder
-tags: []
+tags: [Shoulder]
 comments: []
 ---
 

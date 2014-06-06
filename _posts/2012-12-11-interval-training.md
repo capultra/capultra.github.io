@@ -19,9 +19,7 @@ wordpress_url: http://capultra.com/?p=184
 date: '2012-12-11 07:51:42 -0500'
 date_gmt: '2012-12-11 12:51:42 -0500'
 categories:
-- Exercise
-- Weight Loss
-tags: []
+tags: [Exercise,Weight Loss]
 comments: []
 ---
 

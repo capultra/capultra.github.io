@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=100
 date: '2012-11-05 07:25:48 -0500'
 date_gmt: '2012-11-05 12:25:48 -0500'
 categories:
-- Fasting
-tags: []
+tags: [Fasting]
 comments: []
 ---
 

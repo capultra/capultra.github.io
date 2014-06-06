@@ -16,9 +16,7 @@ wordpress_url: http://capultra.com/?p=116
 date: '2012-11-10 07:50:06 -0500'
 date_gmt: '2012-11-10 12:50:06 -0500'
 categories:
-- Running
-- Weight Lifting
-tags: []
+tags: [Running,Weight Lifting]
 comments: []
 ---
 

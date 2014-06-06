@@ -16,9 +16,7 @@ wordpress_url: http://capultra.com/?p=28
 date: '2011-12-05 23:46:42 -0500'
 date_gmt: '2011-12-05 23:46:42 -0500'
 categories:
-- Running
-- Shoulder
-tags: []
+tags: [Running, Shoulder]
 comments: []
 ---
 

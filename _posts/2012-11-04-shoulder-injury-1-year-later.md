@@ -16,17 +16,15 @@ wordpress_url: http://capultra.com/?p=87
 date: '2012-11-04 09:17:56 -0500'
 date_gmt: '2012-11-04 14:17:56 -0500'
 categories:
-- Injuries
-- Shoulder
-tags: []
+tags: [Injuries,Shoulder]
 comments: []
 ---
 
-![Grade 3 AC
-Separation](http://thesteadmanclinic.com/education/assets/grade3_acrosep.gif)  
 It's been a year since I suffered a [Grade 3 AC separation](index.php?p=26) in
 my left shoulder - 3 ligaments in the AC joint were completely torn, never to
 return.
+
+![Grade 3 AC Separation](http://thesteadmanclinic.com/education/assets/grade3_acrosep.gif)  
 
 It put me out of the gym for about 5 weeks, and the shoulder remained weak for
 a long time. Looking back through my training log I can see that it took about

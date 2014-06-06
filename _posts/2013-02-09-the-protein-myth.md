@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=205
 date: '2013-02-09 08:30:22 -0500'
 date_gmt: '2013-02-09 13:30:22 -0500'
 categories:
-- Weight Lifting
-tags: []
+tags: [Weight Lifting]
 comments: []
 ---
 

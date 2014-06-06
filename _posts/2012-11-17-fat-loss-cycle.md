@@ -16,8 +16,7 @@ wordpress_url: http://capultra.com/?p=132
 date: '2012-11-17 10:05:25 -0500'
 date_gmt: '2012-11-17 15:05:25 -0500'
 categories:
-- Weight Loss
-tags: []
+tags: [Weight Loss]
 comments: []
 ---
 
