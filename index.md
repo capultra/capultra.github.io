@@ -12,3 +12,4 @@ tagline: Better through nutrition.
 ---
 {% endfor %}
 
+<a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">More posts...</a>
