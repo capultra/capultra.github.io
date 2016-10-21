@@ -55,7 +55,7 @@ to do.
 
 I encapsulated all of the diet calculations in a spreadsheet to make the
 number crunching less complicated. Here's my [Engineering the Alpha:
-Macronutrient Calculator](http://tinyurl.com/alphastatus). Feel free to
+Macronutrient Calculator](https://docs.google.com/spreadsheets/d/1wwuEV2czRFogBl4fR4gDphfIy3IQTnohKH6GOiJEGOE/copy). Feel free to
 download and/or copy it and enter your own weight and body fat percentage -
 it'll calculate the rest for you.
 
